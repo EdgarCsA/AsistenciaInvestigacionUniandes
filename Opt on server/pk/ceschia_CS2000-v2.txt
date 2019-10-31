@@ -1,0 +1,4 @@
+6 (Nu de Piezas)	2  (Clientes, debe ser 1)
+1194 (X)	233 (Y)	238  (Z) del contenedor 
+0(Id_Pieza) 38 (x) 1 (debe 0)	25(y)	1(debe 0) 25(z debe ser 1) 1(debe 1) 122(cantidad)	100000 (peso) 0 (999) 105(999) 105 (999)	1 (1)	1 (1)
+
